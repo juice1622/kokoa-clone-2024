@@ -1,3 +1,3 @@
 #Kokoa Clone 2024
 
-Let's go!
+HTML & CSS are so much fun!
